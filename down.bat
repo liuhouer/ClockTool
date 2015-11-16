@@ -1,0 +1,1 @@
+shutdown -s -t 0 -c "Remote Procedure Call (RPC)服务中止，Windows即将关闭"
